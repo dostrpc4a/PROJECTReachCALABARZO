@@ -221,6 +221,11 @@ section {
     color: #ffffff;
 }
 
+.socials {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
 .social-icons {
     text-align: center;
 }
@@ -290,8 +295,8 @@ section {
 }
 
 .social-icons img {
-    width: 40px;
-    height: 40px;
+    width: 40px !important;
+    height: 40px !important;
     transition: transform 0.3s ease;
 }
 
